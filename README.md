@@ -2,7 +2,7 @@
 In this section, two geometric shape recognition projects have been implemented. The main goal is to recognize 3 shapes: circle, rectangle, triangle.
 
 # Description of the first project
-### I will upload soon .
+### I will upload soon.
 In the first project, we have one of 3 shapes in each image: circle, rectangle and triangle. In this project, we have 2000 photos of 100 x 100 black and white pixels per class. (6000 photos in total)
 
 
