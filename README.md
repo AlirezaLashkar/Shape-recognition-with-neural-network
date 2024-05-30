@@ -6,4 +6,4 @@ In the first project, we have one of 3 shapes in each image: circle, rectangle a
 
 
 # Description of the second project
-In the second project, I implemented 19 classes, so that in each photo there are: one shape, two shapes, or three shapes. (In total, we have 38000 photos in this data set) . In this project, the network performed and learned with 23 epochs and 720 iterations in each epoch. The accuracy of the network on the test dataset was about 93.92%. The graphs of accuracy according to each epoch are placed in the result file.
+In the second project, I implemented 19 classes, so that in each photo there are: one shape, two shapes, or three shapes. (In total, we have 38000 photos in this data set) . In this project, the network performed and learned with 30 epochs and 720 iterations in each epoch. The accuracy of the network on the test dataset was about 93.92%. The graphs of accuracy according to each epoch are placed in the result file.
