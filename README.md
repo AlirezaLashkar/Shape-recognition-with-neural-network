@@ -1,5 +1,11 @@
 # Shape recognition with neural network
-In this section, two geometric shape recognition projects have been implemented.<br />The main goal is to recognize 3 shapes: circle, rectangle, triangle.
+In this section, two geometric shape recognition projects have been implemented.<br />The main goal is to recognize 3 shapes: circle, rectangle, triangle.<br />
+• Prefix to postfix<br />
+ • Prefix to infix<br />
+ • Postfix to prefix<br />
+ • Postfix to infix<br />
+ • Infix to prefix<br />
+ • Infix to postfix<br />
 
 # Description of the first project
 ### I will upload soon.
